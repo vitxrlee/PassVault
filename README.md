@@ -73,12 +73,6 @@ The SQLite database is used to store sensitive data, as mentioned above. This ty
 
 Your informations is stored in a data base with the name of your machine in a table called `passwords` with your master password named `masterpassword`. The table `passwords` has 4 columns: `id`, `name`, `username` and `password`. The table `masterpassword` has 2 columns: `masterpassword` and `salt`.
 
-## Contributors
-See also the list of contributors who participated in this project.
-
-- **[vitoryl](https://github.com/vitoryl)** - *Initial work* 
-- **[carvalinh0](https://github.com/carvalinh0)** - *AES encryption* 
-
 ## Contributing
 Please read [CONTRIBUTING.md](docs/CONTRIBUTING.md) for details on our code of conduct.
 
