@@ -1,6 +1,6 @@
 from rich import print
 
-__author__ = "vlHan"
+__author__ = "vitxrlee"
 __version__ = "V1.5"
 
 def banner() -> None:
@@ -12,6 +12,6 @@ def banner() -> None:
                                             
     author: {__author__}
     version: {__version__}
-    GitHub: https://github.com/vlHan/PassVault
+    GitHub: https://github.com/vitxrlee/PassVault
     
     [/cyan][magenta]*Enter 'exit' at any point to exit.*[/magenta]\n""")
